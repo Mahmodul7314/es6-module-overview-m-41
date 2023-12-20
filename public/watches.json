@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 77",
+      "price": 399.99
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "price": 249.99
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 945",
+      "price": 599.99
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Sense",
+      "price": 299.95
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 5 Carlyle",
+      "price": 249.00
+    }
+  ]
+  
